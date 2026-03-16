@@ -1,0 +1,13 @@
+{
+  "id" : "b28165b2b3f6400d87deb71c84039ba3",
+  "name" : "Schema Registry",
+  "type" : "catalog",
+  "properties" : {
+    "table_filters" : [ ],
+    "catalog_type" : "cloudera-registry",
+    "kafka.provider.id" : "cf72e09300d04f1bad250ca52a15e7ac",
+    "registry.address" : "http://schema-registry-service.cld-streaming.svc:9090/api/v1",
+    "registry.ssl.enabled" : true
+  },
+  "custom_truststore" : false
+}
