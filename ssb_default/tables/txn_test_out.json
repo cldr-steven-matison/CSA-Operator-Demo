@@ -1,0 +1,14 @@
+{
+  "metadata" : {
+    "schema.2.data-type" : "VARCHAR(2147483647)",
+    "connector" : "print",
+    "schema.0.data-type" : "VARCHAR(2147483647)",
+    "schema.2.name" : "fields",
+    "schema.1.name" : "name",
+    "schema.0.name" : "type",
+    "schema.1.data-type" : "VARCHAR(2147483647)"
+  },
+  "type" : "ssb",
+  "table_name" : "txn_test_out",
+  "transform_code_b64_encoded" : false
+}

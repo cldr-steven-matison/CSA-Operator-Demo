@@ -1,0 +1,11 @@
+{
+  "id" : "cf72e09300d04f1bad250ca52a15e7ac",
+  "name" : "kafka",
+  "type" : "kafka",
+  "properties" : {
+    "brokers" : "my-cluster-kafka-bootstrap.cld-streaming.svc:9092",
+    "protocol" : "plaintext",
+    "mechanism" : null
+  },
+  "custom_truststore" : false
+}

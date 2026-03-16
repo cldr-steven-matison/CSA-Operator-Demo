@@ -1,0 +1,10 @@
+{
+  "metadata" : {
+    "connector" : "datagen",
+    "schema.0.data-type" : "VARCHAR(2147483647)",
+    "schema.0.name" : "col1"
+  },
+  "type" : "ssb",
+  "table_name" : "datagen",
+  "transform_code_b64_encoded" : false
+}
